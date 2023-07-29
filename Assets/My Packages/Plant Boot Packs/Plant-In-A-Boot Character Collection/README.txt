@@ -1,5 +1,5 @@
 
-Thank you for downloading the 'Plant Boot Garden Collection' asset package. If you have
+Thank you for downloading the 'Plant-In-A-Boot Character Collection' asset package. If you have
 any questions or issues, don't hesitate to get in touch. If you could be so kind as to leave a review of this package, 
 that would be fantastic as it really helps me out.
 
@@ -9,8 +9,20 @@ Alasdair
 
 ---------------------------------
 
-Total Files:102
-Total Folders:24
+Complete garden collection package includes:
+
+5 unique main characters
+5 additional characters
+Tiles (grass, dirt, stone, etc.)
+Foliage (trees, grass, rock, etc.)
+Structures (signposts, wells)
+
+View 'Plant Boot Garden Collection' here: https://u3d.as/37QC
+
+---------------------------------
+
+Total Files:36
+Total Folders:8
 
 Additional Guidance:
 
